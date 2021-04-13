@@ -13,13 +13,14 @@
 
 - 👯 I’m looking to collaborate on **JavaScript Projects**
 
-- ⚡ Fun fact **Sometimes I Bed Early**
+- ⚡ Fun fact **I love HTML programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dimeshk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dimeshk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dimesh-kularathna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dimesh-kularathna" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11312762" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11312762" height="30" width="40" /></a>
+<a href="https://instagram.com/dimesh_k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dimesh_k" height="30" width="40" /></a>
 <a href="https://discord.gg/6626" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="6626" height="30" width="40" /></a>
 </p>
 
