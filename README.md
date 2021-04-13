@@ -1,4 +1,5 @@
-### Ayubowan! I'm Dimesh Kularathna 👋
+### Ayubowan 🙏
+=> I'm Dimesh Kularathna 👨‍💻 
 
 - 🔭 I’m currently working on Disributed System Project
 - 🌱 I’m currently learning Node.js
